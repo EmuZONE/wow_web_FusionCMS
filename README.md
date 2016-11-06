@@ -1,10 +1,10 @@
-FusionCMS 6.2.1 latest retail version.
-It doesn't need serial to install and use.
+FusionCMS 6.2.1 Full Version
+Ohne Lizenz Abfrage inkl. Module und Themes
 
-Containing all updates from 6.1.7 to 6.2.1
+Enthält alle Updates von 6.1.7 zu 6.2.1
 
 ![alt tag](http://i.imgur.com/PH3B2xK.jpg "FusionCMS")
 
-More information and items at: ZoneWoW.com
+Mehr Infos und Support unter: hrrp://emuzone.bplaced.net
 
-Desch
+EmuZONE DEV Team
