@@ -25,23 +25,23 @@ class Characters_model
 		$this->realmId = $this->config['id'];
 	}
 
-	/**
-	 * Connect to the database if not already connected
-	 */
-	public function connect()
-	{
-		if(empty($this->db))
-		{
-			$this->db = &get_instance()->load->database($this->config['characters'], true);
-		}
-	}
-	
-	public function getConnection()
-	{
-		$this->connect();
+	    /**
+     * Connect to the database if not already connected
+     */
+    public function connect()
+    {
+        if(empty($this->db))
+        {
+            $this->db = get_instance()->load->database($this->config['characters'], true);
+        }
+    }
+    
+    public function getConnection()
+    {
+        $this->connect();
 
-		return $this->db;
-	}
+        return $this->db;
+    }  
 
 	/**
 	 * Get characters
